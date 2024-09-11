@@ -7,7 +7,6 @@ def to_uppercase(s: str) -> str:
     """
     return s.upper()
 
-
 def capitalize_words(s: str) -> str:
     """
     Делает заглавными первые буквы каждого слова в строке.
